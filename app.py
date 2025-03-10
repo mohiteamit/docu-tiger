@@ -8,8 +8,8 @@ from agents.agent_feedback import evaluate_feedback
 from docs.doc_consolidator import consolidate_documentation
 
 def run_app():
-    st.title("Agentic AI-Powered Project Code Documentation")
-    st.write("Enter the project folder path to build documentation using autonomous agents. After generation, review each section and provide feedback for improvements if needed.")
+    st.title("Docu-Tiger")
+    st.write("Enter the project folder path and get going!")
     
     # Initialize session state variable to hold the documentation sections.
     if "doc_sections" not in st.session_state:
