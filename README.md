@@ -92,5 +92,6 @@ Below are some screenshots of the application in action:
 
 ![Documentation as markdown file](images/download-doc.png)
 
-<!-- 
-You may also watch the demo video [here](#) *(link to recorded video)*. -->
+
+## Demo video
+<video controls src="images/demo.mp4" title="Demo video"></video>
