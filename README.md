@@ -57,11 +57,9 @@ The code for this project was developed with the assistance of:
 - **o3-mini-high**
 - **GitHub Copilot**
 
-These tools helped streamline code generation and ensure the modular design and agentic functionality of the system.
+## Collaboration
 
-## Contributing
-
-At this time, contributions are not expected. However, if you have questions, queries, or are interested in collaborating on other projects, please feel free to reach out.
+If you have questions, queries, or are interested in collaborating on other projects, please feel free to reach out.
 
 ## Contact
 
