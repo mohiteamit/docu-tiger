@@ -63,9 +63,8 @@ If you have questions, queries, or are interested in collaborating on other proj
 
 ## Contact
 
-For any questions or collaboration opportunities, contact:
-
-**Amit Mohite**  
+Built by **Amit Mohite** – Techno-Functional Leader in AI/Automation Ops Transformation
+GitHub: https://github.com/mohiteamit | LinkedIn: linkedin.com/in/amitmohite
 Email: [mohite.amit@gmail.com](mailto:mohite.amit@gmail.com)
 
 ## License
